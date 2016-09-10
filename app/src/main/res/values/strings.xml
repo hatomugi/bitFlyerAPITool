@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">bitFlyerAPITool</string>
+    <string name="activity_main_name">bitFlyerチャット</string>
+    <string name="activity_trade_name">bitFlyer売買</string>
+    <string name="menu_chat">チャット</string>
+    <string name="menu_trade">売買</string>
+    <string name="menu_setting">設定</string>
+    <string-array name="order_type_list">
+        <item>指値</item>
+        <item>成行</item>
+    </string-array>
+</resources>
